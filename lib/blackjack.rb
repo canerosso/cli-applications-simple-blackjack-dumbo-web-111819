@@ -1,9 +1,11 @@
 def welcome
   # code #welcome here
+  puts "Welcome"
 end
 
 def deal_card
   # code #deal_card here
+  puts "Your cards add up to #{card_total}"
 end
 
 def display_card_total
